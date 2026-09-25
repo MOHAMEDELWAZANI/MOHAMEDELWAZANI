@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Mohamed Wazane — Data Science & Cloud Computing student. Fig. 1: what I build — 8D Music, minidock, weather pipeline, plantscan" width="100%">
+  <img src="assets/banner.jpg" alt="Mohamed Wazane — Data Science & Cloud student. I build things from scratch." width="100%">
 </p>
 
 <p align="center">
